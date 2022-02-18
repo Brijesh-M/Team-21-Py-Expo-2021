@@ -1,5 +1,5 @@
 # Team-21-Py-Expo-2021
-Program a two-person game of Tic -Tac- Toe. The game is played on a three by three board.
+A two-person game of Tic -Tac- Toe. The game is played on a three by three board.
 Each player has a marker. One player has an ‘X’, the other an ‘O’. 
 Players alternate turns to place their marker on the board.
 
